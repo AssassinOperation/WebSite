@@ -1,4 +1,4 @@
-### 墨鱼自用Web网站
+### 自用Web网站
 * 更新时间：2022-09-14
 * 备份一些WebUrl
 * 备注带★为QX网页优化对象
@@ -57,6 +57,3 @@
 | Hpjav | https://hpjav.tv/ | 还行，凑合 |
 
 ```diff
-+ 通知频道： https://t.me/ddgksf2021
-- 投稿助手： https://t.me/ddgksf2013_bot
-```
